@@ -1,0 +1,23 @@
+{
+  "name": "hot_restaurant_mini_project",
+  "version": "1.0.0",
+  "description": "Create a hot resturant page",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seulkilee0428/Hot_Restaurant_Mini_Project.git"
+  },
+  "author": "seulki, Eddie, Ruby, Margarita",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/seulkilee0428/Hot_Restaurant_Mini_Project/issues"
+  },
+  "homepage": "https://github.com/seulkilee0428/Hot_Restaurant_Mini_Project#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
