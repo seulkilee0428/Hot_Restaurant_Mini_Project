@@ -1,1 +1,1 @@
-# Hot_Restaurant_Miniproject
+# Hot_Restaurant_Mini_Project
