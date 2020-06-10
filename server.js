@@ -21,11 +21,15 @@ app.get("/tables", function (req, res) {
     res.sendFile(path.join(__dirname, "tables.html"));
 });
 
+app.get("/api/tables", function (req, res) {
+    return res.json(reservations);
+});
 
 app.post("/api/tables", function (req, res) {
     var newres = req.body;
     console.log(newres);
     reservations.push(newres);
+    res.json(newres)
 
 });
 
