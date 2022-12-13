@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/seulkilee0428/Hot_Restaurant_Mini_Project#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.3"
   }
 }
